@@ -4,7 +4,11 @@ Brainfuck interpreter for iOS 6 with great interface
 ## Features
 
 1. It's a full-featured bf-interpreter
-2. Step-by-step and standart running
+2. Step-by-step (with undo) and standart running
+3. Skeumorphism 
+4. Moving tape and static translucent glass pointer
+5. The current value of the cell and its ascii representation is displayed under and on the glass, respectively 
+6. Full-featured I/O
 
 ## Screenshots
 
